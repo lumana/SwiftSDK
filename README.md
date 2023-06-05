@@ -1,6 +1,8 @@
 # SwiftSDK
 
-This is a project for testing the creation of SDK and using with SPM (Swift Package Manager)
+SDK with a custom preconfigured WKWebView.
+
+This is a project for testing the creation of SDK and using with SPM (Swift Package Manager). 
 
 1 - Create a Swift / UIKit project and add the package
 
